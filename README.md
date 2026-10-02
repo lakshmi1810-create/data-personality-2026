@@ -307,7 +307,7 @@ The goal was to make the user feel like they are **discovering themselves**, rat
 ### 1. Clone the repository
 
 ```bash
-git clone lakshmi1810-create/data-personality-2026
+git clone https://github.com/lakshmi1810-create/data-personality-2026 
 ```
 
 ### 2. Open the project folder
